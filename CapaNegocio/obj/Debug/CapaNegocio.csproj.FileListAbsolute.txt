@@ -1,0 +1,12 @@
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\bin\Debug\FontAwesome.Sharp.dll
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\programacion\proyectofinal\EagleBox\CapaNegocio\obj\Debug\CapaNegocio.pdb
